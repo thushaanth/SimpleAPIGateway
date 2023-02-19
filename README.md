@@ -12,7 +12,9 @@ npm install
 npm start
 ```
 
-4) Run the project in Docker container
-```terminal
-npm run docker-run
-```
+3) For JWT Athentication, Setup the header with key:**token** and value: **eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGh1c2hhYW50aCBCYWxhIn0.qPB4HDs7OSA0Fh_kcHP-PY-D24xl5e5eykupQnx21gE**
+
+![image](https://user-images.githubusercontent.com/10079196/219933491-32565880-146d-4201-a75e-9e675e75a40f.png)
+
+4) Setup up the Query Params with key:**ip** and value:**37.19.213.55** (Any IP)
+![image](https://user-images.githubusercontent.com/10079196/219933571-233922b5-2519-4790-874e-9cafc3e74f3a.png)
