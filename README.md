@@ -12,11 +12,6 @@ npm install
 npm start
 ```
 
-3) Test the project:
-```terminal
-npm test
-```
-
 4) Run the project in Docker container
 ```terminal
 npm run docker-run
