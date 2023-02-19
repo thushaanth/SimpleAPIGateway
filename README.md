@@ -18,3 +18,5 @@ npm start
 
 4) Setup up the Query Params with key:**ip** and value:**37.19.213.55** (Any IP)
 ![image](https://user-images.githubusercontent.com/10079196/219933571-233922b5-2519-4790-874e-9cafc3e74f3a.png)
+
+url: http://localhost:8080/ip/
